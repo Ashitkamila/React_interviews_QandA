@@ -1,0 +1,25 @@
+1-What is the difference between HTML elements and tags?
+2-What is semantic tags in HTML5?
+3-what are the new features in HTML5?
+4-What are empty elements?
+5-What is the use of an iframe tag?
+6-All Display properties?
+7-If I do not put <!DOCTYPE html> will HTML 5 work?
+8-What is the use of the required attribute in HTML5?
+9-If we use footer above header ,what will happen?
+10-Difference b/w display:none and visibility:hidden?
+11-emphasis element in HTML?
+12-What is css box model?
+13-Position properties in css?
+14-What is selector and types of and uses?
+15-What is Pseudo-Classes and Pseudo-elements?
+16-Difference b/w display felx and grid?
+17-VH and WH ?
+18-How we can use media-quries?
+19-How many ways we can center the elements?
+20-What is z-index?
+21-What is the concept of "inheritance" in CSS?
+22-What is the overflow property in css?
+23-What is the CSS "box-sizing" property used for? How can you ensure consistent sizing of elements?
+24-What are CSS preprocessors like SASS or LESS? What advantages do they offer over standard CSS?
+25-What is use of opacity in css?

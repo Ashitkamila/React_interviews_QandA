@@ -1,0 +1,54 @@
+React js interview questions:-
+
+1-What is virtual dom in React and how it's different from realdom?
+2-what is reconciliation and diffing algorithm?
+3-what do you mean by JSX and Babel?
+4-How is React unidirectional?
+5-How to pass data from parent to childs and child to parent in react?
+6-What are lifecycle methods in react class based and functional based?
+7-Difference b/w controlled and uncontrolled components?
+8-What is useRef and why we use it?
+9-What is props drilling in react or how we can avoid it?
+10-Is setState () is asyncronous?
+11-What is useContext?
+12-Diff b/w state and props?
+13-What is redux and why we are use it?
+14-what is middleware?
+15-Diff b/w redux thunk and redux saga?
+18-How many ways to optimizing the react app?
+19-What is lazyLoading in React?
+20-What is code splitting in react?
+21-What is dynamic import in react?
+22-What is error boundary in react And how can we implement class and functional based compnents?
+23-Diff b/w library and framework ?
+24-What are the advantages of react ?
+25-Diff b/w React and Angular ?
+26-How the React works?
+27-Is React a server side or client side?
+28-What is HigherOrder components?
+29-What is createRoot in React ?
+30-What is forwardRef in react?
+31-Diff b/w useCallBack and useMemo?
+32-What is contextApi and contextHell?
+33-Diff b/w package.json and package-lock.json in react?
+34-Diff b/w element and component in react ?
+35-What is the use of the concept of interceptors in a React ?
+36-How to manage nested routes i terms of role based routing?
+37-What is Hooks in react?
+38-Diff b/w class component and functional component?
+39-How the bunndle the class component and why the functional component introduced?
+40-What is webPack bunndle and react bunndle?
+41-What is react Fragment and empty angle tag ?
+42-Diff b/w redux and redux toolkit ?
+43-How React helpfull for Single page Application?
+44-What is react fiber?
+45-What is purecomponent in react?
+46-Diff b/w useEffect and useLayoutEffect?
+47-what is React portal?
+48-What are the two default hooks use in react redux?
+49-Diff b/w export default and named export in react?
+50-What is useStrict in react?
+51-What are the super,constructor,render in react?
+
+
+

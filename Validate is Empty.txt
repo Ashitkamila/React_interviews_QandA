@@ -1,0 +1,89 @@
+//Validate is Empty
+
+export const validateIsEmpty = (argument) => {
+  if (
+    argument === undefined ||
+    argument === null ||
+    argument === "" ||
+    argument === 0
+  ) {
+    return true;
+  } else {
+    return false;
+  }
+};
+
+
+//Check an Array or Object
+
+export const arrayOrObject = (data) => {
+  let checkStatus = false;
+
+  let isArray = Array.isArray(data);
+
+  let isObject = !isArray ? data?.constructor === Object : false;
+
+  if (isArray && !isObject) {
+    checkStatus =
+      data !== undefined && data !== null && data !== [] && data?.length > 0;
+  }
+
+  if (isObject && !isArray) {
+    checkStatus =
+      data !== undefined && data !== null && Object.keys(data).length > 0;
+  }
+
+  return {
+    isObject: isObject,
+    isArray: isArray,
+    checkStatus: checkStatus,
+  };
+};
+
+//get EmptyArrayofObject
+
+export const getEmptyArrObjStatus = (data) => {
+  let checkStatus = false;
+
+  let isArray = Array.isArray(data);
+
+  let isObject = !isArray ? data?.constructor === Object : false;
+
+  if (isArray && !isObject) {
+    checkStatus =
+      data !== undefined && data !== null && data !== [] && data?.length > 0;
+  }
+
+  if (isObject && !isArray) {
+    checkStatus =
+      data !== undefined && data !== null && Object.keys(data).length > 0;
+  }
+
+  return checkStatus;
+};
+
+make into decimal
+export const decimal2 = (input) => {
+  if (
+    input !== 0 &&
+    input !== undefined &&
+    input !== null &&
+    input !== "" &&
+    input !== NaN
+  ) {
+    let isDecimal = input - Math.floor(input) > 0 ? true : false;
+    let decimalValue = 0;
+    if (isDecimal) {
+      decimalValue = input.toFixed(2);
+    } else {
+      decimalValue = Math.floor(input)?.toFixed(2);
+    }
+    return decimalValue;
+  } else {
+    input = 0;
+    return input.toFixed(2);
+  }
+};
+
+
+

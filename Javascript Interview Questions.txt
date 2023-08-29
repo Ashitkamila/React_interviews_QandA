@@ -80,4 +80,5 @@
 78-Diff b/w some() and every() methods in js of an array?
 79-Diff b/w slice() and splice() methods in js of an array?
 80-What is substring() methods in js?
+81-How we can error handling in js?
 

@@ -1,0 +1,83 @@
+-------------------Javascript Interview Questions-----------------------------------------------------
+
+1-What is JavaScript?Why Javascript is Single-threaded, syncronous and dynamically language?
+2-What do you mean by synchronous and asynchronous programming language?
+3-What is  the data types in JavaScript and how many data types in js?
+4-What is the difference between null and undefined?
+5-What is the diff b/w undefiend and notdefined ?
+6-What are the general errors occured during the execution of code like Syntax error,Refrence error,Type error,Range error etc?
+7-What is the scope in js ? What are global scope,block scope,funtional scope,module scope?
+8-Diff let,const and var keywords in js?
+9-Why the let and const keyword are introduced over var keyword in js?
+10-What is lexical enviroment?
+11-What are the new features introduced of ES-6 js?
+12- Explain Hoisting in javascript.
+13-Why do we use the word “debugger” in javascript?
+14-Difference between “ == “ and “ === “ operators?
+15-What are Logical operators in js?
+16-What is NaN property in JavaScript?
+17-What is the function in js and normally how many types of function used in js?
+18-What is an Immediately Invoked Function in JavaScript?
+19-Explain Higher Order Functions in javascript.
+20-What is function currying in JavaScript?
+21-Explain Scope and Scope Chain in javascript?
+22-Explain Closures in JavaScript?
+23-What is callback funtion in js?
+24-What is recursion in a programming language?
+25-What are arrow functions?
+26- What is a Temporal Dead Zone?
+27-What is Object reference in js?
+28-How the Javascript engine work flow?
+29-What is event loop in js?
+30-What is webApi's in js?
+31-What is DOM?
+32-Diff b/w event and event listener in js?
+33-Diff b/w mutable and imutable in js?
+34-Diff b/w inner HTML and inner Text in js?
+35-What is BOM and hierarchy?
+36-What is callback hell and pyramid of doom in js?
+37-How many ways we can copy in js? Diff b/w shallow and deep copy?
+38-What is "this" keyword in js?
+39-What is symbol data type in js?
+40-What is anonymous function in JavaScript ?
+41-What is name function expression in js?
+42-How many ways we create an object in js?
+43-What is destructuring in JavaScript ? Diff b/w Array and Object destructuring?
+44-Diff b/w call ,apply and bind in js?
+45-Diff b/w 'Promise.race()' and 'Promise.all()' in js?
+46-Diff b/w Debouncing and Throttling in js?
+47-What is Promise in js?
+48-Diff b/w async and await?
+49-Diff b/w Promise and async n await in js?
+50-Diff b/w event bubling and event capturing in js?
+51-Explain about setTimeout and setInterval in js?
+52-Diff b/w clearTimeout and clearInterval in js?
+53-Expalin spread operator, rest parameter and default parameter in js?
+54-Explain cookies,local storage and session storage in js?
+55-What is JSON and why we use JSON?
+56-Diff b/w JSON.parse() and JSON.stringify() in js?
+57-What is strict mode in js?
+58-Explain "for loop" ,"for in loop" and "for of loop" in js?
+59-Waht is map and set iterables?
+60-Diff b/w WeakMap and WeakSet in js?
+61-Diff b/w getters and setters in js?
+62-What is Template Literals in js?
+63- What is memoization?
+64-What are object prototypes and inheritance?
+65-What do you know about Pollyfills in js?
+66-What is Arrow function in js?
+67-What is generator function and why it's introduced in js?
+68-Diff b/w fetch and axios in js?
+69-Diff b/w async and defer attribute in js?
+70-Diff b/w REST api's and RESTful api's?
+71-Diff b/w Time Complexity and Space Complexity ?
+72-What is the use of includes and repeat method of string?
+73-Diff b/w pop() and push() method in js of an array?
+74-Diff b/w map() and forEach() methods in js of an array?
+75-Diff b/w shift() and unshift() methods in js of an array?
+76-Diff b/w filter() and find() methods in js of an array?
+77-What are sort() and reduce methods in js of an array?
+78-Diff b/w some() and every() methods in js of an array?
+79-Diff b/w slice() and splice() methods in js of an array?
+80-What is substring() methods in js?
+

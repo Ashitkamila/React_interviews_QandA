@@ -33,7 +33,7 @@ React js interview questions:-
 33-Diff b/w package.json and package-lock.json in react?
 34-Diff b/w element and component in react ?
 35-What is the use of the concept of interceptors in a React ?
-36-How to manage nested routes i terms of role based routing?
+36-How to manage nested routes in terms of role based routing?
 37-What is Hooks in react?
 38-Diff b/w class component and functional component?
 39-How the bunndle the class component and why the functional component introduced?
@@ -49,6 +49,7 @@ React js interview questions:-
 49-Diff b/w export default and named export in react?
 50-What is useStrict in react?
 51-What are the super,constructor,render in react?
+52-What is Synthetic events?
 
 
 

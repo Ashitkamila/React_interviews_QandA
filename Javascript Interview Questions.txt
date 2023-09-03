@@ -81,4 +81,5 @@
 79-Diff b/w slice() and splice() methods in js of an array?
 80-What is substring() methods in js?
 81-How we can error handling in js?
+82-What is transpiling and polyfilling in js?
 

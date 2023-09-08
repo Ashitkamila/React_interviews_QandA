@@ -83,4 +83,7 @@
 81-How we can error handling in js?
 82-What is transpiling and polyfilling in js?
 83-Diff b/w charAt() and at() methods in js?
+84-What is event delegation and how does it function in js?
+85-Diff b/w attribute and property?
+
 

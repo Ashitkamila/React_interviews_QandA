@@ -85,5 +85,6 @@
 83-Diff b/w charAt() and at() methods in js?
 84-What is event delegation and how does it function in js?
 85-Diff b/w attribute and property?
+86-what is use of async and defer attributes in js?
 
 

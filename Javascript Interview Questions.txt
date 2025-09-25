@@ -87,4 +87,367 @@
 85-Diff b/w attribute and property?
 86-what is use of async and defer attributes in js?
 
+1\. Reverse a String 
+
+2\. Check if a String is a Palindrome 
+
+3\. Remove Duplicates from a String 
+
+4\. Find the First Non-Repeating Character 
+
+5\. Count the Occurrences of Each Character 
+
+6\. Reverse Words in a Sentence 
+
+7\. Check if Two Strings are Anagrams 
+
+8\. Find the Longest Substring Without Repeating Characters 
+
+9\. Convert a String to an Integer (atoi Implementation) 
+
+10\. Compress a String (Run-Length Encoding) 
+
+11\. Find the Most Frequent Character 
+
+12\. Find All Substrings of a Given String 
+
+13\. Check if a String is a Rotation of Another String 
+
+14\. Remove All White Spaces from a String 
+
+15\. Check if a String is a Valid Shuffle of Two Strings 
+
+16\. Convert a String to Title Case 
+
+17\. Find the Longest Common Prefix 
+
+18\. Convert a String to a Character Array 
+
+19\. Replace Spaces with %20 (URL Encoding) 
+
+20\. Convert a Sentence into an Acronym 
+
+21\. Check if a String Contains Only Digits 
+
+22\. Find the Number of Words in a String 
+
+23\. Remove a Given Character from a String 
+
+24\. Find the Shortest Word in a String 
+
+25\. Find the Longest Palindromic Substring
+
+
+
+
+
+Here’s a comprehensive list which i recommend to learn:
+
+&nbsp;1. Array Buffer \& Typed Arrays
+
+&nbsp;2. Array Destructuring
+
+&nbsp;3. Array Methods (map, filter \& more)
+
+&nbsp;4. Arrow Functions Vs. Regular Functions
+
+&nbsp;5. Async / Await
+
+&nbsp;6. Bitwise Operators
+
+&nbsp;7. call(), apply(), bind()
+
+&nbsp;8. Callbacks
+
+&nbsp;9. Canvas API
+
+&nbsp;10. Clean Code Practices in JavaScript
+
+&nbsp;11. Client-Side Routing
+
+&nbsp;12. Closures
+
+&nbsp;13. Code Splitting
+
+&nbsp;14. Cross-Browser Compatibility
+
+&nbsp;15. Cross-Origin Resource Sharing (CORS)
+
+&nbsp;16. Currying
+
+&nbsp;17. Custom Events
+
+&nbsp;18. Debounce vs Throttle
+
+&nbsp;19. Debouncing and Throttling
+
+&nbsp;20. Deep vs. Shallow Copy
+
+&nbsp;21. Design Patterns (Observer, Singleton, Factory, etc.)
+
+&nbsp;22. Destructuring
+
+&nbsp;23. Destructuring Assignment
+
+&nbsp;24. Destructuring Nested Objects/Arrays
+
+&nbsp;25. DOM Manipulation
+
+&nbsp;26. Dynamic Imports
+
+&nbsp;27. Dynamic Typing
+
+&nbsp;28. Equality Operators (== vs ===)
+
+&nbsp;29. Error Boundaries (in React.js)
+
+&nbsp;30. Error Handling (Try/Catch/Throw)
+
+&nbsp;31. ES6 Features (Arrow Functions, Classes, Modules, Destructuring)
+
+&nbsp;32. Event Bubbling and Capturing
+
+&nbsp;33. Event Delegation
+
+&nbsp;34. Event Handling (addEventListener)
+
+&nbsp;35. Event Loop
+
+&nbsp;36. Fetch API
+
+&nbsp;37. Functions
+
+&nbsp;38. Generator Functions
+
+&nbsp;39. Geolocation API
+
+&nbsp;40. Geolocation vs Location Services
+
+&nbsp;41. Global and Local Object (window, globalThis)
+
+&nbsp;42. Hoisting
+
+&nbsp;43. IIFE (Immediately Invoked Function Expression)
+
+&nbsp;44. Inheritance (Class-based, Prototype-based)
+
+&nbsp;45. Intersection Observer API
+
+&nbsp;46. JavaScript Memory Management (Garbage Collection)
+
+&nbsp;47. JavaScript vs ECMAScript
+
+&nbsp;48. JSON (JavaScript Object Notation)
+
+&nbsp;49. Lazy Loading
+
+&nbsp;50. Map and Set
+
+&nbsp;51. Memoization
+
+&nbsp;52. Methods
+
+&nbsp;53. Module Pattern
+
+&nbsp;54. Modules (Import/Export)
+
+&nbsp;55. MutationObserver
+
+&nbsp;56. NaN (Not a Number)
+
+&nbsp;57. Object
+
+&nbsp;58. Object Literal Shorthand
+
+&nbsp;59. Object.assign()
+
+&nbsp;60. Performance Optimization
+
+&nbsp;61. Polyfills
+
+&nbsp;62. Promise.all()
+
+&nbsp;63. Promises
+
+&nbsp;64. Prototypal Inheritance
+
+&nbsp;65. RegEx (Regular Expressions)
+
+&nbsp;66. Scope (Function vs Block Scope)
+
+&nbsp;67. Service Workers
+
+&nbsp;68. Set and Map Iteration
+
+&nbsp;69. Set vs Map
+
+&nbsp;70. SetTimeout and SetInterval
+
+&nbsp;71. Shadow DOM
+
+&nbsp;72. Template Literals
+
+&nbsp;73. Shadowing
+
+&nbsp;74. Spread \& Rest Operators
+
+&nbsp;75. Strict Mode
+
+&nbsp;76. SVG Manipulation
+
+&nbsp;77. Web Workers \& WebSockets
+
+&nbsp;78. This Keyword 
+
+&nbsp;79. Boolean Values
+
+&nbsp;80. let, var \& const
+
+&nbsp;81. Type Coercion vs Type Conversion
+
+&nbsp;82. URL API (URLSearchParams, URL objects)
+
+&nbsp;83. WeakMap \& WeakSet
+
+&nbsp;84. Web Animations
+
+&nbsp;85. localStorage \& sessionStorage
+
+
+
+🎯 Core Concepts:
+
+✨ Closures (Counter function, Memoization)
+
+✨ this keyword (bind, call, apply)
+
+✨ Prototypes and Inheritance (Object.create, prototype chain)
+
+✨ Promises and Async/Await
+
+✨ Event Delegation and Event Bubbling
+
+✨ Debounce and Throttle Functions
+
+✨ Deep Clone vs Shallow Clone
+
+✨ Hoisting (var, let, const behaviors)
+
+✨ Scope and Lexical Environment
+
+✨ Error Handling in Sync/Async code
+
+✨ Currying Functions
+
+✨ Function Composition
+
+✨ Higher-Order Functions (map, filter, reduce)
+
+✨ The Event Loop and Microtasks vs Macrotasks
+
+✨ SetTimeout / SetInterval Behavior
+
+✨ Module Systems (CommonJS, ESM)
+
+✨ IIFE (Immediately Invoked Function Expressions)
+
+
+
+🎯 Advanced Concepts:
+
+⚡ Custom Promise.all, Promise.race
+
+⚡ Writing a simple debounce() and throttle() from scratch
+
+⚡ Implementing your own map, filter, reduce
+
+⚡ Designing a Pub/Sub Event Emitter
+
+⚡ Polyfilling bind, call, apply
+
+⚡ Building a simple useState hook (for React interview rounds)
+
+⚡ Memoization techniques
+
+⚡ Custom Deep Copy utility (without using lodash)
+
+⚡ Factory functions vs Constructor functions
+
+⚡ Observables (basic intro if aiming for high-end companies)
+
+
+
+🎯 Coding + System Design Basics:
+
+🔥 Implement a Light/Dark Theme Toggle
+
+🔥 Infinite Scrolling Logic
+
+🔥 Virtualization Concepts (Windowing lists)
+
+🔥 Intersection Observer API
+
+🔥 Mutation Observer Basics
+
+🔥 Lazy Loading Images
+
+🔥 LocalStorage vs SessionStorage vs Cookies
+
+🔥 Writing a simple Drag and Drop
+
+🔥 Web Workers (Basics understanding)
+
+🔥 IndexedDB vs LocalStorage
+
+🔥 WebSockets and Polling (basic differences)
+
+1. Program to find longest word in a given sentence ?
+2. How to check whether a string is palindrome or not ?
+3. Write a program to remove duplicates from an array ?
+4. Program to find Reverse of a string without using built-in method ?
+5. Find the max count of consecutive 1’s in an array ?
+6. Find the factorial of given number ?
+7. Given 2 arrays that are sorted [0,3,4,31] and [4,6,30]. Merge them and sort [0,3,4,4,6,30,31] ?
+8. Create a function which will accepts two arrays arr1 and arr2. The function should return true if every value in arr1 has its corresponding value squared in array2. The frequency of values must be same.
+9. Given two strings. Find if one string can be formed by rearranging the letters of other string.
+10. Write logic to get unique objects from below array ?
+I/P: [{name: "sai"},{name:"Nang"},{name: "sai"},{name:"Nang"},{name: "111111"}];
+O/P: [{name: "sai"},{name:"Nang"}{name: "111111"}
+11. Write a JavaScript program to find the maximum number in an array.
+12. Write a JavaScript function that takes an array of numbers and returns a new array with only the even numbers.
+13. Write a JavaScript function to check if a given number is prime.
+14. Write a JavaScript program to find the largest element in a nested array.
+[[3, 4, 58], [709, 8, 9, [10, 11]], [111, 2]]
+15. Write a JavaScript function that returns the Fibonacci sequence up to a given number of terms.
+16. Given a string, write a javascript function to count the occurrences of each character in the string.
+17. Write a javascript function that sorts an array of numbers in ascending order.
+18. Write a javascript function that sorts an array of numbers in descending order.
+19. Write a javascript function that reverses the order of words in a sentence without using the built-in reverse() method.
+20. Implement a javascript function that flattens a nested array into a single-dimensional array.
+21. Write a function which converts string input into an object
+("a.b.c", "someValue");
+{a: {b: {c: "someValue"}}}
+22. Find 3rd least occurred number from an array.
+
+
+
+#### **My javscript interview questions-**
+
+1. **What is type coercion in javscript?**
+2. What is the difference between == and ===?
+3. What is the difference between null and undefined?
+4. What is the difference between `let`, `const`, and `var`?
+5. What are falsy values in JavaScript?
+6. What is the difference between || and ?? in JavaScript or Why would you choose ?? instead of ||?
+7. Explain the concept of hoisting in JavaScript.
+8. What is variable scope in JavaScript?
+9. Explain the difference between global and local variables.
+10. What is the temporal dead zone?
+11. What is variable shadowing?
+12. What is a closure in JavaScript?
+13. The Event Loop and Microtasks vs Macrotasks?
+
+
+
+
 
